@@ -1,0 +1,19 @@
+{ sys: 
+   { space: { sys: { type: 'Link', linkType: 'Space', id: 'rdoaxptznw23' } },
+     id: 'wPsqeekhnEIAouaUI0eu6',
+     type: 'Entry',
+     createdAt: '2017-02-17T16:28:50.826Z',
+     updatedAt: '2017-02-17T16:28:50.826Z',
+     revision: 1,
+     contentType: 
+      { sys: 
+         { type: 'Link',
+           linkType: 'ContentType',
+           id: '3nXMTupVvOAUQ82IOO0iM2' } },
+     locale: 'en-US' },
+  fields: 
+   { title: 'Doge',
+     body: 'Luv them!',
+     image: { sys: { type: 'Link', linkType: 'Asset', id: '167F5XeySYKSWqyMiwgKGs' } },
+     slug: 'doge',
+     date: '2017-02-17T00:00+00:00' } }
