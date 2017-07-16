@@ -2,13 +2,17 @@
 ---
 <pre>
 Jekyll:
-{{ jekyll | json }}
-</pre>
-<pre>
+{{ jekyll | jsonify }}
+
 Site:
-{{ site | json }}
-</pre>
-<pre>
+{{ site | jsonify }}
+
 Page:
-{{ page | json }}
+{{ page | jsonify }}
+
+Layout:
+{{ layout | jsonify }}
+
+Paginator:
+{{ paginator | jsonify }}
 </pre>
